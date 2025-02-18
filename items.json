@@ -1,0 +1,804 @@
+{
+  "items": [
+    {
+      "id": "001",
+      "image_product": "./images/1.png",
+      "product_name": "CITIZEN Solid 2 Fold Auto Open 8 Aluminium Ribs UV Coated Windproof Silver Coating Umbrella  (Red)",
+      "rating": {
+        "rating_count": "3.8",
+        "rating_numbers": "(1,140)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "249",
+        "curr_price": 249,
+        "org_price": 799,
+        "original_price": "799",
+        "discount": "68"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Lowest price since launch",
+      "size": "For Individual",
+      "delivery_by": {
+        "date": "Tue Sept 16",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "002",
+      "image_product": "./images/10.png",
+      "product_name": "Nike Men ReactX Running Shoes Provides excellent breathability, often used in athletic shoes branded with care.",
+      "rating": {
+        "rating_count": 0,
+        "rating_numbers": "(0)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "original_price": "14,995",
+        "curr_price": 14995,
+        "org_price": 14995,
+        "current_price": "14,995",
+        "discount": "0"
+      },
+      "delivery_charge": "₹120 Delivery Charge",
+      "offers": "Daily Saver",
+      "size": "Size:9",
+      "delivery_by": {
+        "date": "Tue Sept 25",
+        "delivery_type": "₹120",
+        "del": 120
+      }
+    },
+    {
+      "id": "003",
+      "image_product": "./images/11.png",
+      "product_name": "NIVIA Men Fresh Deodrant 150ml Hamilton and Imperial Combo Deodorant Spray - For Men Charm and Mischief Avatar ",
+      "rating": {
+        "rating_count": 4.2,
+        "rating_numbers": "(5200)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "original_price": 285,
+        "org_price": 285,
+        "curr_price": 142,
+        "current_price": 142,
+        "discount": "50"
+      },
+      "delivery_charge": "₹120 Delivery Charge",
+      "offers": "Daily Saver",
+      "size": "For Individual",
+      "delivery_by": {
+        "date": "Tue Sept 18",
+        "delivery_type": "₹120",
+        "del": 120
+      }
+    },
+    {
+      "id": "004",
+      "image_product": "./images/2.png",
+      "product_name": "Realme 5i (Forest Green, 64GB) (4 GB RAM) Snapdragon 665 Octa Core Processor with 4G+ Network high speed performance",
+      "rating": {
+        "rating_count": 4.5,
+        "rating_numbers": "(4,12,838)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "original_price": "11,999",
+        "org_price": 11999,
+        "curr_price": 10999,
+        "current_price": "10,999",
+        "discount": "10"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Hot Deal",
+      "size": "Size: 6.5 inch display",
+      "delivery_by": {
+        "date": "Tue Sept 25",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "005",
+      "image_product": "./images/3.png",
+      "product_name": "ASUS VivoBook 15 (2024) Intel Core i3 10th Gen 1005G1 - (8 GB/512 GB SSD/Windows 11 Home) X515JA Best of Tech",
+      "rating": {
+        "rating_count": 4.3,
+        "rating_numbers": "(12,596)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "original_price": "50,990",
+        "org_price": 50990,
+        "curr_price": 28990,
+        "current_price": "28,990",
+        "discount": "56"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Lowest Price Since Launch",
+      "size": "Size: 15.5 inches FHD display",
+      "delivery_by": {
+        "date": "Tue Sept 20",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "006",
+      "image_product": "./images/4.png",
+      "product_name": "Recollect your childhood memories with TATYA Realistic Toy For Kids (Arms & Legs Moveable) ",
+      "rating": {
+        "rating_count": 5,
+        "rating_numbers": "(15,550)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "original_price": "4,985",
+        "org_price": 4985,
+        "curr_price": 2505,
+        "current_price": "2,505",
+        "discount": "50"
+      },
+      "delivery_charge": "₹224 Delivery Charge From London",
+      "offers": "Hot Deal",
+      "size": "Only for Lakshya",
+      "delivery_by": {
+        "date": "29 Dec 2024",
+        "delivery_type": "₹224",
+        "del": 224
+      }
+    },
+    {
+      "id": "007",
+      "image_product": "./images/5.png",
+      "product_name": "LEADER Spyder MTB Cycle/Bike with Complete Accessories 27.5 T Mountain Cycle  (Single Speed, Black, Orange, Rigid)",
+      "rating": {
+        "rating_count": 3.9,
+        "rating_numbers": "(8,704)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "original_price": "11,999",
+        "org_price": 11999,
+        "curr_price": 4399,
+        "current_price": "4,399",
+        "discount": "63"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Lowest price in the year",
+      "size": "Size:For 14 years+",
+      "delivery_by": {
+        "date": "Tue Sept 30",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "008",
+      "image_product": "./images/6.png",
+      "product_name": "YAMAHA PSR-I400 With KB50 Bag, Digital Portable Keyboard  (61 Keys) touch toggle button for different modes.",
+      "rating": {
+        "rating_count": 4.5,
+        "rating_numbers": "(42)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "original_price": "22,490",
+        "org_price": 22490,
+        "curr_price": 19999,
+        "current_price": "19,999",
+        "discount": "11"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Hot Deal",
+      "size": "Size: 14 inch",
+      "delivery_by": {
+        "date": "Tue Sept 25",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "009",
+      "image_product": "./images/7.png",
+      "product_name": "Aquire 175 cm Chinese Lamps in RED - Double Sheet 6980 Self Adhesive Sticker  (Pack of 1)",
+      "rating": {
+        "rating_count": 4.3,
+        "rating_numbers": "(84,798)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "original_price": "1,598",
+        "org_price": 1598,
+        "curr_price": 159,
+        "current_price": "159",
+        "discount": "90"
+      },
+      "delivery_charge": "₹29 Secured Delivery Charge",
+      "offers": "Trending Deal",
+      "size": "Size:30cm X 240cm",
+      "delivery_by": {
+        "date": "Tue Sept 30",
+        "delivery_type": "₹29",
+        "del": 29
+      }
+    },
+    {
+      "id": "10",
+      "image_product": "./images/9.png",
+      "product_name": "CUKOO Women Padded Halter Neck Swimming Dress Highly resistant to chlorine.",
+      "rating": {
+        "rating_count": "4.3",
+        "rating_numbers": "(24)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "1,507",
+        "org_price": 2599,
+        "curr_price": 1507,
+        "original_price": "2,599",
+        "discount": "42"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Hot Deal",
+      "size": "Size: M",
+      "delivery_by": {
+        "date": "Tue Sept 18",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "11",
+      "image_product": "./images/8.png",
+      "product_name": "Pigeon Special 2 L, 3 L, 5 L Outer Lid Pressure Cooker  (Aluminium) with 5 years warranty",
+      "rating": {
+        "rating_count": 4.1,
+        "rating_numbers": "(4,32,116)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "original_price": "2,395",
+        "org_price": 2395,
+        "curr_price": 1739,
+        "current_price": "1,739",
+        "discount": "27"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Extra ₹222 Off",
+      "size": "Size: 2L, 3L, 5L Combo",
+      "delivery_by": {
+        "date": "Tue Sept 25",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "12",
+      "image_product": "./images/12.png",
+      "product_name": "KRYSTALS Light Black Aluminium Shade Black cone Pendants Ceiling Lamp  (Black)",
+      "rating": {
+        "rating_count": 4,
+        "rating_numbers": "(1,293)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "original_price": "2,600",
+        "org_price": 2600,
+        "curr_price": 706,
+        "current_price": "706",
+        "discount": "72"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Lowest price in 15 Days",
+      "size": "15Watt Colorful Bulbs",
+      "delivery_by": {
+        "date": "Tue Sept 20",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "13",
+      "image_product": "./images/13.png",
+      "product_name": "realme Buds Air 6 Pro with 50dB ANC, 360 Spatial Audio and upto 40 hours Playback Bluetooth  (Silver Blue, True Wireless)",
+      "rating": {
+        "rating_count": "4.8",
+        "rating_numbers": "(11,140)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "3689",
+        "curr_price": 3689,
+        "org_price": 7599,
+        "original_price": "7599",
+        "discount": "52"
+      },
+      "delivery_charge": "120₹ Delivery charge",
+      "offers": "Lowest price since launch",
+      "size": "For Individual",
+      "delivery_by": {
+        "date": "Tue Sept 16",
+        "delivery_type": "120₹",
+        "del": 120
+      }
+    },
+    {
+      "id": "14",
+      "image_product": "./images/14.png",
+      "product_name": "Epson L3250 Multi-function WiFi Color Ink Tank Printer  (4 Ink Bottles Included) Featuring heat-free technology, consuming less power.",
+      "rating": {
+        "rating_count": "4.2",
+        "rating_numbers": "(5,140)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "13,850",
+        "curr_price": 13850,
+        "org_price": 17950,
+        "original_price": "17,950",
+        "discount": "23"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Lowest price since launch",
+      "size": "Best Deal",
+      "delivery_by": {
+        "date": "Tue Sept 20",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "15",
+      "image_product": "./images/15.png",
+      "product_name": "Village Mart Handmade Terracotta Pot with lid 5L Pot 10 cm diameter 2.7 L capacity with Lid for Health (Earthenware)",
+      "rating": {
+        "rating_count": "2.8",
+        "rating_numbers": "(140)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "407",
+        "curr_price": 407,
+        "org_price": 1999,
+        "original_price": "1,999",
+        "discount": "79"
+      },
+      "delivery_charge": "85₹ Delivery Charge",
+      "offers": "Lowest price since launch",
+      "size": "For Individual",
+      "delivery_by": {
+        "date": "Tue Sept 16",
+        "delivery_type": "85₹",
+        "del": 85
+      }
+    },
+    {
+      "id": "16",
+      "image_product": "./images/16.png",
+      "product_name": "Fire-Boltt Falcon smartwatch with a 46mm (1.83-inch) HD Full Touch Display, Bluetooth Calling, 100+ Sports Modes, Smart Notifications",
+      "rating": {
+        "rating_count": "4",
+        "rating_numbers": "(80,840)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "1,399",
+        "curr_price": 1399,
+        "org_price": 11999,
+        "original_price": "11,999",
+        "discount": "88"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Mansoon Offer applied",
+      "size": " 2.2 inch screen",
+      "delivery_by": {
+        "date": "Tue Sept 13",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "17",
+      "image_product": "./images/17.png",
+      "product_name": "WESTIDO Orlando Leatherette 3 Seater Sofa  (Finish Color - Brown, DIY(Do-It-Yourself)) Best for Living style structuring",
+      "rating": {
+        "rating_count": "2.9",
+        "rating_numbers": "(6,140)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "8,279",
+        "curr_price": 8279,
+        "org_price": 19999,
+        "original_price": "19,999",
+        "discount": "58"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Extra ₹720 off",
+      "size": "For 3 Persons",
+      "delivery_by": {
+        "date": "Tue Sept 16",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "18",
+      "image_product": "./images/18.jpg",
+      "product_name": "Omphalos Wireless video games for tv gaming, Retro gaming console with Game Stick 64 GB with Old School Station Video Games (Jade Black)",
+      "rating": {
+        "rating_count": "3.8",
+        "rating_numbers": "(1,140)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "2,249",
+        "curr_price": 2249,
+        "org_price": 7899,
+        "original_price": "7,899",
+        "discount": "72"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Lowest price since launch",
+      "size": "For Individual",
+      "delivery_by": {
+        "date": "Tue Sept 26",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "19",
+      "image_product": "./images/19.png",
+      "product_name": "Fjallraven - High resistive Foldsack No. 1 Backpack, Stash your laptop fits 15 Laptops- (up to 15 inches) in the padded sleeve",
+      "rating": {
+        "rating_count": "3.8",
+        "rating_numbers": "(240)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "349",
+        "curr_price": 349,
+        "org_price": 1199,
+        "original_price": "1199",
+        "discount": "70"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Trendy Deal",
+      "size": "For Individual",
+      "delivery_by": {
+        "date": "Tue Sep 16",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "20",
+      "image_product": "./images/20.png",
+      "product_name": "iBELL IBLFL8289 Rechargeable Torch / Flashlight, Ultra Long Beam Range,  Bright LED(Black, 39 cm, Rechargeable)",
+      "rating": {
+        "rating_count": "3.8",
+        "rating_numbers": "(840)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "300",
+        "curr_price": 300,
+        "org_price": 999,
+        "original_price": "999",
+        "discount": "70"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Best for Job Seekers",
+      "size": "For Individual",
+      "delivery_by": {
+        "date": "Tue Oct 1",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "21",
+      "image_product": "./images/21.png",
+      "product_name": "BESTON 37 Keys Piano Toy with Microphone, USB Power Cable & Sound Recording Function Analog Portable Keyboard  (37 Keys)",
+      "rating": {
+        "rating_count": "3.8",
+        "rating_numbers": "(17,462)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "525",
+        "curr_price": 525,
+        "org_price": 1799,
+        "original_price": "1,799",
+        "discount": "70"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Huge Discount of 70%",
+      "size": "For Individual",
+      "delivery_by": {
+        "date": "Tue Nov 12",
+        "delivery_type": "₹200 ",
+        "del": 200
+      }
+    },
+    {
+      "id": "22",
+      "image_product": "./images/22.png",
+      "product_name": "ZUNBELLA RC Car 1:36 Diecast Model With Openable Doors and Bonnet For Kids  (Multicolor, Pack of: 1)",
+      "rating": {
+        "rating_count": "3.8",
+        "rating_numbers": "(3,940)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "294",
+        "curr_price": 294,
+        "org_price": 2000,
+        "original_price": "2,000",
+        "discount": "85"
+      },
+      "delivery_charge": "₹20 Delivery Charge",
+      "offers": "Lowest price since launch",
+      "size": "For Kids",
+      "delivery_by": {
+        "date": "Tue Sept 15",
+        "delivery_type": "₹20",
+        "del": 20
+      }
+    },
+    {
+      "id": "23",
+      "image_product": "./images/23.png",
+      "product_name": "hybite Lapel Mic Mobile Collar Metal Mic Clip Microphone for Android Smartphones, 3.5mm Microphone For Youtube",
+      "rating": {
+        "rating_count": "3.6",
+        "rating_numbers": "(3,112)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "359",
+        "curr_price": 359,
+        "org_price": 560,
+        "original_price": "560",
+        "discount": "55"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Lowest price since launch",
+      "size": "3.5 mm Clip Microphone",
+      "delivery_by": {
+        "date": "Tue Sept 16",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "24",
+      "image_product": "./images/24.png",
+      "product_name": "UGPro B11 Red Magic 7 Wireless Earphone with Deep Bass and Earphone Hands Bluetooth  (Red, Black, Blue, True Wireless)",
+      "rating": {
+        "rating_count": "0",
+        "rating_numbers": "(0)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "275",
+        "curr_price": 275,
+        "org_price": 999,
+        "original_price": "999",
+        "discount": "72"
+      },
+      "delivery_charge": "₹70 Delivery charge",
+      "offers": "Special Price",
+      "size": "For Individual",
+      "delivery_by": {
+        "date": "Tue Sept 16",
+        "delivery_type": "₹70",
+        "del": 70
+      }
+    },
+    {
+      "id": "25",
+      "image_product": "./images/25.png",
+      "product_name": "Amazon Fire TV Stick with Alexa Voice Remote (includes TV and app controls) | HD streaming device. Latest generation",
+      "rating": {
+        "rating_count": "4.5",
+        "rating_numbers": "(28,744)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "4,850",
+        "curr_price": 4850,
+        "org_price": 9999,
+        "original_price": "9,999",
+        "discount": "52"
+      },
+      "delivery_charge": "200₹ Delivery charge",
+      "offers": "Lowest price since launch",
+      "size": "For Individual",
+      "delivery_by": {
+        "date": "Tue Sept 30",
+        "delivery_type": "₹200",
+        "del": 200
+      }
+    },
+    {
+      "id": "26",
+      "image_product": "./images/26.png",
+      "product_name": "Hisense E68N 139 cm (55 inch) QLED Ultra HD TeleVision (4K) Smart Google TV Dolby Vision Atmos Far Smooth Motion Rate  (55E68N)",
+      "rating": {
+        "rating_count": "4.3",
+        "rating_numbers": "(1,430)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "39,999",
+        "curr_price": 39999,
+        "org_price": 64999,
+        "original_price": "64,999",
+        "discount": "38"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Best for Householders",
+      "size": "Size: 55 inches FHD display",
+      "delivery_by": {
+        "date": "Tue Sept 24",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "27",
+      "image_product": "./images/27.png",
+      "product_name": "WR14 High Ankle Genuine Leather Casual and Tactical Boots Mesh | Comfort| Summer Tendy| Outdoor| Boots For Men  (Black , 8 India)",
+      "rating": {
+        "rating_count": "4.2",
+        "rating_numbers": "(22,193)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "599",
+        "curr_price": 599,
+        "org_price": 2950,
+        "original_price": "2,950",
+        "discount": "80"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Lowest price since launch",
+      "size": "For Individual",
+      "delivery_by": {
+        "date": "Tue Sept 22",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "28",
+      "image_product": "./images/28.png",
+      "product_name": "UGPro Sweat - BEST NECKBAND bluetooth music plya (color red blue black) Bluetooth  (Red, Black, Blue, True Wireless)",
+      "rating": {
+        "rating_count": "2.8",
+        "rating_numbers": "(5,140)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "265",
+        "curr_price": 265,
+        "org_price": 999,
+        "original_price": "999",
+        "discount": "73"
+      },
+      "delivery_charge": "₹27 Delivery Charge",
+      "offers": "Lowest price since launch",
+      "size": "Be the First to review",
+      "delivery_by": {
+        "date": "Tue Sept 6",
+        "delivery_type": "₹27",
+        "del": 27
+      }
+    },
+    {
+      "id": "29",
+      "image_product": "./images/29.png",
+      "product_name": "Canon R100 Mirrorless Camera RF-S 18-45mm f/4.5-6.3 IS STM  (Black) DIGIC 8 Img Processor, 4K Video, Full HD 60p #JustHere",
+      "rating": {
+        "rating_count": "4.8",
+        "rating_numbers": "(490)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "46,990",
+        "curr_price": 46990,
+        "org_price": 64995,
+        "original_price": "64,995",
+        "discount": "27"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Special Price",
+      "size": "18-45mm",
+      "delivery_by": {
+        "date": "Tue Sept 26",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "30",
+      "image_product": "./images/30.png",
+      "product_name": "Bestor 7-in-1 USB-C Hub with USB-A converter,1x USB 3.0,4xUSB 2.0,USB-C,60W PD Charging Ports USB Hub  (Grey)",
+      "rating": {
+        "rating_count": "4.1",
+        "rating_numbers": "(1,285)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "899",
+        "curr_price": 899,
+        "org_price": 4999,
+        "original_price": "4,999",
+        "discount": "82"
+      },
+      "delivery_charge": "99₹ Delivery charge",
+      "offers": "Special Price till Sept",
+      "size": "For Techies",
+      "delivery_by": {
+        "date": "Tue Sept 26",
+        "delivery_type": "₹99",
+        "del": 99
+      }
+    },
+    {
+      "id": "31",
+      "image_product": "./images/31.png",
+      "product_name": "GOVO GOSURROUND 200 |2000 mAh Battery 16 W Bluetooth Speaker  (Platinum Black, 2.0 Channel)",
+      "rating": {
+        "rating_count": "4.3",
+        "rating_numbers": "(8,566)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "1,199",
+        "curr_price": 1199,
+        "org_price": 3999,
+        "original_price": "3,999",
+        "discount": "70"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Festive Offer Special",
+      "size": "Size: 25cm",
+      "delivery_by": {
+        "date": "Tue Sept 19",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "32",
+      "image_product": "./images/32.png",
+      "product_name": "iFFALCON by TCL U64 126 cm (50 inch) Ultra HD (4K) LED Smart Google TV with 24W Dolby Audio, HDR10  (iFF50U64)",
+      "rating": {
+        "rating_count": "4.3",
+        "rating_numbers": "(62,140)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "27,499",
+        "curr_price": 27499,
+        "org_price": 62999,
+        "original_price": "62,999",
+        "discount": "56"
+      },
+      "delivery_charge": "20₹ Delivery Charge",
+      "offers": "Lowest price since launch",
+      "size": "Screen Size: 50inch",
+      "delivery_by": {
+        "date": "Tue Sept 31",
+        "delivery_type": "₹20",
+        "del": 20
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+.order-container {
+  background-color: white;
+  width: 80%;
+  max-width: 600px;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.order-content {
+  padding: 20px;
+}
+
+.order-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.order-icon {
+  width: 48px;
+  height: 48px;
+  margin-bottom: 10px;
+}
+
+.order-header h2 {
+  font-size: 24px;
+  margin: 0;
+  color: #2874f0;
+}
+
+.order-details p {
+  font-size: 16px;
+  color: #555;
+}
+
+.delivery-info h3,
+.order-summary h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.delivery-info p {
+  font-size: 16px;
+  color: #2874f0;
+}
+
+.order-summary ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+  color: #333;
+}
+
+.order-summary li {
+  margin: 10px 0;
+}
+
+.continue-shopping button {
+  background-color: #fb641b;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.continue-shopping button:hover {
+  background-color: #f5510a;
+}
