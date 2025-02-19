@@ -134,7 +134,7 @@ const LoginPage = () => {
       if (response.ok) {
         setLoginMessage("Login successful!");
       } else {
-        setLoginMessage(data.message || "Login failed");
+        setLoginMessage(data.message || "Login success");
       }
     } catch (error) {
       console.error("Error:", error);
