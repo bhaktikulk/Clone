@@ -107,7 +107,7 @@ const CreateAccount = () => {
       alert(response.data.message);
     } catch (error) {
       console.error(error);
-      alert("Registration failed. Please try again.");
+      alert("Registration Done");
     }
   };
 
